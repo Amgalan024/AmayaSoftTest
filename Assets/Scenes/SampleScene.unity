@@ -949,8 +949,8 @@ RectTransform:
   m_Father: {fileID: 1211381769}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.36787504, y: 0.15850003}
-  m_AnchorMax: {x: 0.62334377, y: 0.24883333}
+  m_AnchorMin: {x: 0.36787504, y: 0.027750002}
+  m_AnchorMax: {x: 0.67824996, y: 0.124666676}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -1075,7 +1075,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cardBundles:
-  - {fileID: 11400000, guid: 0d5c3e5a91ab91b44b7730fc52f07955, type: 2}
+  - {fileID: 11400000, guid: 954f8e7ad59a79540838354278c6ff7e, type: 2}
   - {fileID: 11400000, guid: 0d5c3e5a91ab91b44b7730fc52f07955, type: 2}
   cardPanel: {fileID: 1189792538}
   cardPrefab: {fileID: 2248604100852387154, guid: ee928457d7da140429b49997b669ed3d,

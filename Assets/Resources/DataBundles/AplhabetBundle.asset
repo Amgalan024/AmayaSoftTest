@@ -13,55 +13,80 @@ MonoBehaviour:
   m_Name: AplhabetBundle
   m_EditorClassIdentifier: 
   cards:
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
-  - indetifier: 
-    sprite: {fileID: 0}
+  - indetifier: A
+    sprite: {fileID: 4963718625464178563, guid: 2ca066d18d934e5489d15b4e2957a445,
+      type: 3}
+  - indetifier: B
+    sprite: {fileID: 7783457984840754399, guid: 2ca066d18d934e5489d15b4e2957a445,
+      type: 3}
+  - indetifier: C
+    sprite: {fileID: 3234300448368640894, guid: 2ca066d18d934e5489d15b4e2957a445,
+      type: 3}
+  - indetifier: D
+    sprite: {fileID: 7911670913450602933, guid: 2ca066d18d934e5489d15b4e2957a445,
+      type: 3}
+  - indetifier: E
+    sprite: {fileID: 4652326554734856401, guid: 2ca066d18d934e5489d15b4e2957a445,
+      type: 3}
+  - indetifier: F
+    sprite: {fileID: -6426668015567183463, guid: 2ca066d18d934e5489d15b4e2957a445,
+      type: 3}
+  - indetifier: G
+    sprite: {fileID: 216406037199867053, guid: 2ca066d18d934e5489d15b4e2957a445, type: 3}
+  - indetifier: H
+    sprite: {fileID: -8235857483100294123, guid: 2ca066d18d934e5489d15b4e2957a445,
+      type: 3}
+  - indetifier: I
+    sprite: {fileID: -3541686595128163680, guid: 2ca066d18d934e5489d15b4e2957a445,
+      type: 3}
+  - indetifier: J
+    sprite: {fileID: -2756605603065543306, guid: 2ca066d18d934e5489d15b4e2957a445,
+      type: 3}
+  - indetifier: K
+    sprite: {fileID: -1127063002332224934, guid: 2ca066d18d934e5489d15b4e2957a445,
+      type: 3}
+  - indetifier: L
+    sprite: {fileID: -5901097786099144959, guid: 2ca066d18d934e5489d15b4e2957a445,
+      type: 3}
+  - indetifier: M
+    sprite: {fileID: 3295844289267200183, guid: 2ca066d18d934e5489d15b4e2957a445,
+      type: 3}
+  - indetifier: N
+    sprite: {fileID: 7112752472869403061, guid: 57c4dbf6b3ad1ea4d904b5d29c6fa6be,
+      type: 3}
+  - indetifier: O
+    sprite: {fileID: 5433449995169814141, guid: 57c4dbf6b3ad1ea4d904b5d29c6fa6be,
+      type: 3}
+  - indetifier: P
+    sprite: {fileID: -4252152113809563852, guid: 57c4dbf6b3ad1ea4d904b5d29c6fa6be,
+      type: 3}
+  - indetifier: Q
+    sprite: {fileID: -4447791616812998045, guid: 57c4dbf6b3ad1ea4d904b5d29c6fa6be,
+      type: 3}
+  - indetifier: R
+    sprite: {fileID: -6342808464625005154, guid: 57c4dbf6b3ad1ea4d904b5d29c6fa6be,
+      type: 3}
+  - indetifier: S
+    sprite: {fileID: 8083504644574312765, guid: 57c4dbf6b3ad1ea4d904b5d29c6fa6be,
+      type: 3}
+  - indetifier: T
+    sprite: {fileID: -4461999128152558772, guid: 57c4dbf6b3ad1ea4d904b5d29c6fa6be,
+      type: 3}
+  - indetifier: U
+    sprite: {fileID: 3270655726746431581, guid: 57c4dbf6b3ad1ea4d904b5d29c6fa6be,
+      type: 3}
+  - indetifier: V
+    sprite: {fileID: -2983290644488427326, guid: 57c4dbf6b3ad1ea4d904b5d29c6fa6be,
+      type: 3}
+  - indetifier: W
+    sprite: {fileID: -9165466868132007793, guid: 57c4dbf6b3ad1ea4d904b5d29c6fa6be,
+      type: 3}
+  - indetifier: X
+    sprite: {fileID: 4461586319009975920, guid: 57c4dbf6b3ad1ea4d904b5d29c6fa6be,
+      type: 3}
+  - indetifier: Y
+    sprite: {fileID: -5001085640463096552, guid: 4faa3cbe3f6ba664fb34f7c56356a315,
+      type: 3}
+  - indetifier: Z
+    sprite: {fileID: 3539555106843919260, guid: 4faa3cbe3f6ba664fb34f7c56356a315,
+      type: 3}

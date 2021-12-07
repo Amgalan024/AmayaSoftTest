@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 [CreateAssetMenu(fileName = "New Data Bundle", menuName = "Data Bundles")]
 public class CardDataBundle : ScriptableObject
 {

@@ -1,10 +1,7 @@
-﻿using System.Collections;
-using System.Linq;
+﻿using System.Linq;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using DG.Tweening;
-
 public class LevelInitializer : MonoBehaviour
 {
     [SerializeField] private CardDataBundle[] cardBundles;
