@@ -2,7 +2,6 @@
 using UnityEngine;
 using DG.Tweening;
 using System.Collections;
-
 public class CardAnimation : MonoBehaviour
 {
     public IEnumerator PlayBounceInAnimation(Card card)

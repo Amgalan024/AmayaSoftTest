@@ -55,5 +55,4 @@ public class LevelInitializer : MonoBehaviour
             Destroy(card.gameObject);
         }
     }
-
 }

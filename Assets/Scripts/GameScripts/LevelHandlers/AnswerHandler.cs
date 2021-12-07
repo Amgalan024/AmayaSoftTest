@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
-
 public class AnswerHandler : MonoBehaviour
 {
     [SerializeField] private UnityEvent onAnsweredCorrectly;
@@ -25,5 +24,4 @@ public class AnswerHandler : MonoBehaviour
             onAnsweredIncorrectly?.Invoke();
         }
     }
-
 }
